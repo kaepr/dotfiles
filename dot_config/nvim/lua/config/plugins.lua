@@ -18,7 +18,7 @@ local plugins = {
         priority = 1000,
         config = function()
             require("gruvbox").setup({
-                transparent_mode = true,
+                constrast = "hard",
                 italic = {
                     strings = false,
                     comments = false,
@@ -27,6 +27,7 @@ local plugins = {
                 },
             })
 
+            vim.o.background = "light"
             vim.cmd("colorscheme gruvbox")
         end
     },
