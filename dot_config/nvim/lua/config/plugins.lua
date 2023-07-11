@@ -115,7 +115,7 @@ local plugins = {
     },
 
     -- Lisp Support
-    "benknoble/vim-racket",
+    "wlangstroth/vim-racket",
 
     {
         "Olical/conjure",
