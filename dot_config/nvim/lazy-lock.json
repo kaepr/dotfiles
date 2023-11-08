@@ -7,6 +7,7 @@
   "gitsigns.nvim": { "branch": "main", "commit": "48c3ae8ec74cb83f9570ceb0c5ab8217db7a2220" },
   "gruvbox.nvim": { "branch": "main", "commit": "df149bccb19a02c5c2b9fa6ec0716f0c0487feb0" },
   "harpoon": { "branch": "master", "commit": "21f4c47c6803d64ddb934a5b314dcb1b8e7365dc" },
+  "kanagawa.nvim": { "branch": "master", "commit": "c19b9023842697ec92caf72cd3599f7dd7be4456" },
   "lazy.nvim": { "branch": "main", "commit": "da8b00581a52f5f87ad2aba9f52171fda7491f18" },
   "lsp-zero.nvim": { "branch": "v2.x", "commit": "7b9627c2cb50906993e194290b2e539c95dfdf47" },
   "lualine.nvim": { "branch": "master", "commit": "05d78e9fd0cdfb4545974a5aa14b1be95a86e9c9" },
@@ -26,5 +27,5 @@
   "vim-dispatch": { "branch": "master", "commit": "6cc2691576f97d43f8751664d1a1a908b99927e5" },
   "vim-dispatch-neovim": { "branch": "master", "commit": "c8c4e21a95c25032a041002f9bf6e45a75a73021" },
   "vim-jack-in": { "branch": "master", "commit": "4cefab20f02c44249499f43200442a3176315acd" },
-  "vim-racket": { "branch": "master", "commit": "2c7ec0f35a2ad1ca00305e5d67837bc1f1d4b6cc" }
+  "vim-racket": { "branch": "master", "commit": "c21569c65fe690c7ad6e88313df8a642fc6531ec" }
 }
